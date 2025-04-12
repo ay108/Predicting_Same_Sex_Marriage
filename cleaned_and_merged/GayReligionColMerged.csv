@@ -1,0 +1,249 @@
+"","Country","Colonized","Buddhists","Christians","Muslims","Legalized"
+"1","Afghanistan",0,0,0,100,0
+"2","Albania",0,0,16.7,82.1,0
+"3","Algeria",1,0,0,97.9,0
+"4","American Samoa",NA,0,98.3,0,0
+"5","Andorra",0,0,89.5,0,1
+"6","Angola",1,0,90.5,0,0
+"7","Anguilla",NA,0,90.6,0,0
+"8","Antigua & Barbuda",1,NA,NA,NA,NA
+"9","Antigua and Barbuda",NA,0,93,0,0
+"10","Argentina",1,0,85.4,0,1
+"11","Armenia",0,0,98.3,0,0
+"12","Aruba",NA,0,91.6,0,0
+"13","Australia",1,2.9,61.7,3,1
+"14","Austria",0,0,78.4,6.2,1
+"15","Azerbaijan",0,0,2.6,97.3,0
+"16","Bahamas",1,0,96.2,0,0
+"17","Bahrain",1,3.1,14.1,69.7,0
+"18","Bangladesh",1,0,0,90.8,0
+"19","Barbados",1,0,95.2,0,0
+"20","Belarus",0,0,70.7,0,0
+"21","Belgium",0,0,60.5,7.5,1
+"22","Belize",1,0,87.6,0,0
+"23","Benin",1,0,52.2,24.6,0
+"24","Bermuda",NA,0,75,1.1,0
+"25","Bhutan",1,74.7,0,0,0
+"26","Bolivia",1,0,94,0,0
+"27","Bosnia & Herzegovina",0,NA,NA,NA,NA
+"28","Bosnia-Herzegovina",NA,0,51.1,46.5,0
+"29","Botswana",1,0,76.4,0,0
+"30","Brazil",1,0,88.1,0,1
+"31","British Virgin Islands",NA,0,84.5,1.2,0
+"32","Brunei",1,8.6,9.4,75.1,0
+"33","Bulgaria",0,0,81,14.2,0
+"34","Burkina Faso",1,0,21.7,62.7,0
+"35","Burma (Myanmar)",NA,79.8,7.8,4.2,0
+"36","Burundi",1,0,91,2.9,0
+"37","Cambodia",1,96.8,0,2,0
+"38","Cameroon",1,0,69.6,19.3,0
+"39","Canada",1,1,66.4,2.8,1
+"40","Cape Verde",1,0,89.3,0,0
+"41","Caribbean Netherlands",NA,0,93.9,0,0
+"42","Cayman Islands",NA,0,83.5,0,0
+"43","Central African Republic",1,0,89,9,0
+"44","Chad",1,0,41.1,55.1,0
+"45","Channel Islands",NA,0,85.2,0,0
+"46","Chile",1,0,88.3,0,1
+"47","China",0,18.3,5.2,2,0
+"48","Colombia",1,0,92.3,0,1
+"49","Comoros",1,0,0,98.3,0
+"50","Congo - Brazzaville",1,NA,NA,NA,NA
+"51","Congo - Kinshasa",1,NA,NA,NA,NA
+"52","Cook Islands",NA,0,96,0,0
+"53","Costa Rica",1,0,90.8,0,1
+"54","Côte d’Ivoire",1,NA,NA,NA,NA
+"55","Croatia",0,0,93.3,1.6,0
+"56","Cuba",1,0,58.9,0,1
+"57","Curacao",NA,0,93.9,0,0
+"58","Cyprus",1,0,72.3,25,0
+"59","Czech Republic",NA,0,20.9,0,0
+"60","Czechia",0,NA,NA,NA,NA
+"61","Democratic Republic of the Congo",NA,0,95.8,1.5,0
+"62","Denmark",0,0,81.9,5.1,1
+"63","Djibouti",1,0,2.3,96.9,0
+"64","Dominica",1,0,94.4,0,0
+"65","Dominican Republic",1,0,88,0,0
+"66","Ecuador",1,0,94,0,1
+"67","Egypt",1,0,4.7,95.3,0
+"68","El Salvador",1,0,88,0,0
+"69","Equatorial Guinea",1,0,88.7,4,0
+"70","Eritrea",1,0,62.9,36.6,0
+"71","Estonia",0,0,39.3,0,0
+"72","Eswatini",1,NA,NA,NA,NA
+"73","Ethiopia",0,0,61.9,35.9,0
+"74","Faeroe Islands",NA,0,98,0,0
+"75","Falkland Islands (Malvinas)",NA,0,67.2,0,0
+"76","Federated States of Micronesia",NA,0,95.3,0,0
+"77","Fiji",1,0,64.4,6.3,0
+"78","Finland",0,0,77.7,1.3,1
+"79","France",0,0,58.1,8.3,1
+"80","French Guiana",NA,0,84,1.3,0
+"81","French Polynesia",NA,0,94,0,0
+"82","Gabon",1,0,75.6,12.2,0
+"83","Gambia",1,0,4.2,95.3,0
+"84","Georgia",0,0,87.6,11.6,0
+"85","Germany",0,0,66,6.9,1
+"86","Ghana",1,0,73.6,17.5,0
+"87","Gibraltar",NA,0,88.8,4,0
+"88","Greece",0,0,87.6,5.9,0
+"89","Greenland",NA,0,96.1,0,0
+"90","Grenada",1,0,96.6,0,0
+"91","Guadeloupe",NA,0,95.9,0,0
+"92","Guam",NA,1.1,94.2,0,0
+"93","Guatemala",1,0,95.3,0,0
+"94","Guinea",1,0,10.8,84.6,0
+"95","Guinea-Bissau",1,0,18.9,46.1,0
+"96","Guyana",1,0,67.9,6.1,0
+"97","Haiti",1,0,87,0,0
+"98","Honduras",1,0,87.5,0,0
+"99","Hong Kong",NA,13.3,14.9,2.1,0
+"100","Hungary",0,0,79.3,0,0
+"101","Iceland",0,0,94,0,1
+"102","India",1,0,2.4,15.4,0
+"103","Indonesia",1,0,10.2,87,0
+"104","Iran",0,0,0,100,0
+"105","Iraq",1,0,0,100,0
+"106","Ireland",0,0,89.7,1.5,1
+"107","Isle of Man",NA,0,84.1,0,0
+"108","Israel",1,0,2,20.1,0
+"109","Italy",0,0,80.8,4.9,0
+"110","Ivory Coast",NA,0,44,37.2,0
+"111","Jamaica",1,0,77.3,0,0
+"112","Japan",0,33.2,1.8,0,0
+"113","Jordan",1,0,2.1,97.1,0
+"114","Kazakhstan",0,0,23.1,72,0
+"115","Kenya",1,0,84.5,10.5,0
+"116","Kiribati",1,0,97,0,0
+"117","Kosovo",0,0,5.6,94.3,0
+"118","Kuwait",1,5.4,13.6,70.7,0
+"119","Kyrgyzstan",0,0,10,89.4,0
+"120","Laos",1,64,1.5,0,0
+"121","Latvia",0,0,54.3,0,0
+"122","Lebanon",1,0,38.4,61.2,0
+"123","Lesotho",1,0,97,0,0
+"124","Liberia",0,0,86.2,11.7,0
+"125","Libya",1,0,2.7,96.6,0
+"126","Liechtenstein",0,0,91.9,5,0
+"127","Lithuania",0,0,89.9,0,0
+"128","Luxembourg",0,0,70.6,2.3,1
+"129","Macau",NA,17.3,7.2,0,0
+"130","Madagascar",1,0,84.7,3.1,0
+"131","Malawi",1,0,83.4,12.8,0
+"132","Malaysia",1,15.7,9.4,66.1,0
+"133","Maldives",1,0,0,98.4,0
+"134","Mali",1,0,2.4,94.6,0
+"135","Malta",0,0,97,0,1
+"136","Marshall Islands",1,0,97.5,0,0
+"137","Martinique",NA,0,96.5,0,0
+"138","Mauritania",1,0,0,100,0
+"139","Mauritius",1,0,32.8,17.4,0
+"140","Mayotte",NA,0,0,98.6,0
+"141","Mexico",1,0,94.1,0,1
+"142","Micronesia (Federated States of)",1,NA,NA,NA,NA
+"143","Moldova",0,0,97.4,0,0
+"144","Monaco",0,0,86,0,0
+"145","Mongolia",0,54.4,2.3,3.4,0
+"146","Montenegro",0,0,76.6,20.3,0
+"147","Montserrat",NA,0,93.5,0,0
+"148","Morocco",1,0,0,100,0
+"149","Mozambique",1,0,57.8,17.2,0
+"150","Myanmar (Burma)",1,NA,NA,NA,NA
+"151","Namibia",1,0,97.5,0,0
+"152","Nauru",1,1.1,79,0,0
+"153","Nepal",0,10,0,5,0
+"154","Netherlands",0,0,47.3,6.9,1
+"155","New Caledonia",NA,0,85.2,2.8,0
+"156","New Zealand",1,1.9,52.9,1.6,1
+"157","Nicaragua",1,0,85.3,0,0
+"158","Niger",1,0,0,98.3,0
+"159","Nigeria",1,0,46.9,51.1,0
+"160","Niue",NA,0,96.4,0,0
+"161","North Korea",0,1.5,2,0,0
+"162","North Macedonia",0,NA,NA,NA,NA
+"163","Northern Mariana Islands",NA,10.6,81.3,0,0
+"164","Norway",0,0,81.7,4.9,1
+"165","Oman",0,0,6.4,85.9,0
+"166","Pakistan",1,0,1.6,96.5,0
+"167","Palau",1,0,86.7,0,0
+"168","Palestinian territories",NA,0,2,97.9,0
+"169","Panama",1,0,92.7,0,0
+"170","Papua New Guinea",1,0,100,0,0
+"171","Paraguay",1,0,96.9,0,0
+"172","Peru",1,0,95.4,0,0
+"173","Philippines",1,0,92.4,5.7,0
+"174","Poland",0,0,92.5,0,0
+"175","Portugal",0,0,90.5,0,1
+"176","Puerto Rico",NA,0,96.5,0,0
+"177","Qatar",1,3.8,13.7,65.2,0
+"178","Republic of Macedonia",NA,0,55.1,43.6,0
+"179","Republic of the Congo",NA,0,87.1,1.2,0
+"180","Reunion",NA,0,87.6,4.2,0
+"181","Romania",0,0,100,0,0
+"182","Russia",0,0,72.9,11.4,0
+"183","Rwanda",1,0,93.8,2.2,0
+"184","Samoa",1,0,96.9,0,0
+"185","San Marino",0,0,91.6,0,0
+"186","São Tomé & Príncipe",1,NA,NA,NA,NA
+"187","Sao Tome and Principe",NA,0,81.1,0,0
+"188","Saudi Arabia",0,0,4.4,92.7,0
+"189","Senegal",1,0,3.3,96.6,0
+"190","Serbia",0,0,91.6,5,0
+"191","Seychelles",1,0,94,1.1,0
+"192","Sierra Leone",1,0,20.4,78.5,0
+"193","Singapore",1,32.2,17.7,16.1,0
+"194","Sint Maarten",NA,0,93.9,0,0
+"195","Slovakia",0,0,83.6,0,0
+"196","Slovenia",0,0,77.2,3.9,1
+"197","Solomon Islands",1,0,97.4,0,0
+"198","Somalia",1,0,0,100,0
+"199","South Africa",1,0,80.8,1.9,1
+"200","South Korea",0,21.9,30.1,0,0
+"201","South Sudan",0,0,60.5,6.2,0
+"202","Spain",0,0,75.2,3.3,1
+"203","Sri Lanka",1,68.6,7.2,10.4,0
+"204","St. Helena",NA,0,96.5,0,0
+"205","St. Kitts & Nevis",1,NA,NA,NA,NA
+"206","St. Kitts and Nevis",NA,0,94.6,0,0
+"207","St. Lucia",1,0,91.5,0,0
+"208","St. Pierre and Miquelon",NA,0,94.7,0,0
+"209","St. Vincent & Grenadines",1,NA,NA,NA,NA
+"210","St. Vincent and the Grenadines",NA,0,88.7,1.5,0
+"211","Sudan",1,0,5.4,90.7,0
+"212","Suriname",1,0,52.3,14.3,0
+"213","Swaziland",NA,0,88.7,0,0
+"214","Sweden",0,0,63,6.5,1
+"215","Switzerland",0,0,70,5.6,1
+"216","Syria",1,0,5.2,92.8,0
+"217","Taiwan",0,21.2,5.8,0,1
+"218","Tajikistan",0,0,1.8,96.4,0
+"219","Tanzania",1,0,63.1,34.1,0
+"220","Thailand",0,92.6,0,6,0
+"221","Timor-Leste",1,0,100,0,0
+"222","Togo",1,0,42.3,14,0
+"223","Tokelau",NA,0,100,0,0
+"224","Tonga",1,0,98.9,0,0
+"225","Trinidad & Tobago",1,NA,NA,NA,NA
+"226","Trinidad and Tobago",NA,0,66.3,5.8,0
+"227","Tunisia",1,0,0,100,0
+"228","Turkey",0,0,0,98,0
+"229","Turkmenistan",0,0,6.4,93,0
+"230","Turks and Caicos Islands",NA,0,92.1,0,0
+"231","Tuvalu",1,0,96.7,0,0
+"232","U.S. Virgin Islands",NA,0,94.8,0,0
+"233","Uganda",1,0,86.1,12.1,0
+"234","Ukraine",0,0,85.6,1.7,0
+"235","United Arab Emirates",1,2.4,12.9,75,0
+"236","United Kingdom",0,0,59.1,6.1,1
+"237","United States",1,1.2,75.5,1.1,1
+"238","Uruguay",1,0,57,0,1
+"239","Uzbekistan",0,0,2,97.1,0
+"240","Vanuatu",1,0,93.5,0,0
+"241","Vatican City",NA,0,100,0,0
+"242","Venezuela",1,0,89.5,0,0
+"243","Vietnam",1,16.2,8.4,0,0
+"244","Wallis and Futuna",NA,0,97.4,0,0
+"245","Western Sahara",NA,0,0,100,0
+"246","Yemen",1,0,0,100,0
+"247","Zambia",1,0,97.4,0,0
+"248","Zimbabwe",1,0,87.1,0,0
