@@ -8,7 +8,7 @@ mydata <- read.csv("/Users/ashleyyang/Desktop/Stat228/everything_cleaned.csv")
 head(mydata)
 mydata <- mydata[,c(4,6,7,8,9,10,11,12,13)]
 
-set.seed(1)
+set.seed(100)
 
 K <- 5
 n <- nrow(mydata)
